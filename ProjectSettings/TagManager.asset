@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - BG
+  - FG
+  - Tiles
+  - Player
+  - BG1
+  - BG2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: SuperBG
+    uniqueID: 4238277983
+    locked: 0
+  - name: Bg
+    uniqueID: 403014697
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 2217718591
+    locked: 0
+  - name: FG
+    uniqueID: 3351718331
+    locked: 0
+  - name: Spikes
+    uniqueID: 170328093
+    locked: 0
+  - name: Tiles
+    uniqueID: 1244473603
+    locked: 0
+  - name: Player
+    uniqueID: 2811424479
+    locked: 0
+  - name: BG
+    uniqueID: 2876548139
+    locked: 0
+  m_RenderingLayers:
+  - Default
